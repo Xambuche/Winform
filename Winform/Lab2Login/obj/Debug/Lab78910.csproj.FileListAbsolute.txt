@@ -1,0 +1,13 @@
+D:\IT\CNPM\Lab7,8,9,10\Lab2Login\bin\Debug\Lab2Login.exe.config
+D:\IT\CNPM\Lab7,8,9,10\Lab2Login\bin\Debug\Lab2Login.exe
+D:\IT\CNPM\Lab7,8,9,10\Lab2Login\bin\Debug\Lab2Login.pdb
+D:\IT\CNPM\Lab7,8,9,10\Lab2Login\obj\Debug\Lab78910.csproj.AssemblyReference.cache
+D:\IT\CNPM\Lab7,8,9,10\Lab2Login\obj\Debug\Lab78910.csproj.SuggestedBindingRedirects.cache
+D:\IT\CNPM\Lab7,8,9,10\Lab2Login\obj\Debug\Lab2Login.frmLogin.resources
+D:\IT\CNPM\Lab7,8,9,10\Lab2Login\obj\Debug\Lab2Login.frmManageUsers.resources
+D:\IT\CNPM\Lab7,8,9,10\Lab2Login\obj\Debug\Lab2Login.MainForm.resources
+D:\IT\CNPM\Lab7,8,9,10\Lab2Login\obj\Debug\Lab2Login.Properties.Resources.resources
+D:\IT\CNPM\Lab7,8,9,10\Lab2Login\obj\Debug\Lab78910.csproj.GenerateResource.cache
+D:\IT\CNPM\Lab7,8,9,10\Lab2Login\obj\Debug\Lab78910.csproj.CoreCompileInputs.cache
+D:\IT\CNPM\Lab7,8,9,10\Lab2Login\obj\Debug\Lab2Login.exe
+D:\IT\CNPM\Lab7,8,9,10\Lab2Login\obj\Debug\Lab2Login.pdb
